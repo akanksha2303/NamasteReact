@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "This is Namaste react by Akanksha",
   "scripts": {
-    "start":"parcel reactsibling.html",
-    "build":"parcel build reactsibling.html",
+    "start": "parcel reactsibling.html",
+    "build": "parcel build reactsibling.html",
     "test": "jest"
   },
   "repository": {
@@ -24,7 +24,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1"
   },
   "browserslist": [
     "Last 2 versions"
